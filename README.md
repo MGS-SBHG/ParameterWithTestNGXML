@@ -1,0 +1,2 @@
+# ParameterWithTestNGXML
+Parameter WithTestNG XML
